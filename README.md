@@ -301,3 +301,4 @@ Variable Placeholder | Description
 <CONTAINER_NAME> | This is the docker container name of your choice e.g. "mycontainer". Docker will use this name to run container based on the Docker image specified with <IMAGE_NAME>.
 <API_KEY> | Must be replaced with the value of the apiKey property specified in `<SERVICE_FOLDER>/conf/default.js`
 # hello-world
+# hello-world
